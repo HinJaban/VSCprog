@@ -42,7 +42,7 @@ void main() {
 	push(st, 555955);
 	push(st, 5545555);
 	push(st, 558555);
-	push(st, 555655);
+	push(st, 555655);р
 	
 	int a;
 	while (!empty(st)) {
